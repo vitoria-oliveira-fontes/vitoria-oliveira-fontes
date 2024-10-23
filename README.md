@@ -13,7 +13,7 @@
 
 ## 📫 Como me encontrar
 
-- 💼 [![LinkedIn](https://www.linkedin.com/in/vitóriadeoliveira)]
+- 💼 [![LinkedIn](www.linkedin.com/in/vitóriadeoliveira)]
 
 
 
