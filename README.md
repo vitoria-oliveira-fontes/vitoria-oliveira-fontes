@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou a Vitória Oliveira!
 
 - 🎓 Estudante de Tecnologia focada em **Infraestrutura de Redes** e **Desenvolvimento Web**.  
-- 💻 Apaixonada por **Segurança Cibernética** e sempre buscando aprender mais sobre **Gerenciamento de Projetos** e **Metodologias Ágeis**.  
-- 🚀 Gerente de Projetos no desenvolvimento do projeto **Lista de Compras Inteligente**.
+- 💻 Apaixonada por **Segurança Cibernética** e sempre buscando aprender mais sobre **Gerenciamento de Projetos** e **Metodologias Ágeis**.
 
 ## 💡 Sobre mim
 
