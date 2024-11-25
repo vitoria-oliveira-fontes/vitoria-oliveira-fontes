@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Vitória Oliveira!
 
-- 🎓 Estudante de Tecnologia focada em **Infraestrutura de Redes** e **Desenvolvimento Web**.  
+- 🎓 Estudante de Tecnologia focada em **Infraestrutura de Redes** e **Segurança Cibernética**.  
 - 💻 Apaixonada por **Segurança Cibernética** e sempre buscando aprender mais sobre **Gerenciamento de Projetos** e **Metodologias Ágeis**.
 
 ## 💡 Sobre mim
